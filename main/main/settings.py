@@ -42,6 +42,9 @@ INSTALLED_APPS = [
     'corsheaders',
     'djoser',
 ]
+
+
+
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:8000'
 ]
