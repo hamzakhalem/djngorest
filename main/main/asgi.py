@@ -12,4 +12,4 @@ import os
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'main.settings')
 
-application = get_asgi_application()
+ = get_asgi_application()
